@@ -38,7 +38,7 @@ shopify theme serve
 
 ## Staying up to date with Dawn changes
 
-Say you're building a new theme off Dawn but you still want to be able to pull in the latest changes, you can add a remote `upstream` pointing to this Dawn repository.
+Say you're building a new theme off Dawn but you still want to be able to pull in the latest changes, you can add a remote `upstreams` pointing to this Dawn repository.
 
 1. Navigate to your local theme folder.
 2. Verify the list of remotes and validate that you have both an `origin` and `upstream`:
